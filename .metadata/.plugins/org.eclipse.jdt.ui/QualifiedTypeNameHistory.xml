@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+<fullyQualifiedTypeName name="com.hamiltonian.Hamiltonian"/>
+<fullyQualifiedTypeName name="com.color.graph.ColorAlgo"/>
+<fullyQualifiedTypeName name="com.congnizant.knighttour.Constants"/>
+<fullyQualifiedTypeName name="java.lang.Integer"/>
+<fullyQualifiedTypeName name="com.congnizant.knighttour.KnightTour"/>
+<fullyQualifiedTypeName name="com.maze.problem.MazeAlgorithom"/>
+<fullyQualifiedTypeName name="com.sudoku.problem.SudokuAlgorithm"/>
+<fullyQualifiedTypeName name="com.sudoku.problem.Constants"/>
+<fullyQualifiedTypeName name="com.fibonacci.number.FibonacciAlgorithm"/>
+<fullyQualifiedTypeName name="java.util.Map"/>
+<fullyQualifiedTypeName name="java.util.HashMap"/>
+<fullyQualifiedTypeName name="javax.swing.text.TabableView"/>
+<fullyQualifiedTypeName name="com.knapsack.algorithm.Algortithm"/>
+<fullyQualifiedTypeName name="com.knapsack.algorithm.AlgorithmBacktrack"/>
+<fullyQualifiedTypeName name="javax.xml.ws.WebEndpoint"/>
+<fullyQualifiedTypeName name="com.sum.of.sub.array.Algorithm"/>
+<fullyQualifiedTypeName name="com.rod.cutting.problem.Algorithm"/>
+<fullyQualifiedTypeName name="java.util.Arrays"/>
+<fullyQualifiedTypeName name="bin.packin.problem.FirstFitDecressingAlogorithm"/>
+<fullyQualifiedTypeName name="java.util.List"/>
+<fullyQualifiedTypeName name="java.util.ArrayList"/>
+<fullyQualifiedTypeName name="java.util.Collections"/>
+</qualifiedTypeNameHistroy>
